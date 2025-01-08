@@ -1,7 +1,3 @@
-# number_guess
-<<<<<<< HEAD
-=======
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
->>>>>>> 2585b1d9462928d8db03550401c837080aa7700d
+#Название: Программа "Угадай число"
+
+#Краткое описание: Данная программа
